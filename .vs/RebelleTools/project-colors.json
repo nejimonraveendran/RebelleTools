@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e4338f23-bdfc-4c50-a47f-764828b2cf9e": {
+      "ProjectGuid": "e4338f23-bdfc-4c50-a47f-764828b2cf9e",
+      "DisplayName": "RebelleTools",
+      "ColorIndex": 0
+    },
+    "f62e17ac-3696-40d9-bfd3-25c5a2a649ed": {
+      "ProjectGuid": "f62e17ac-3696-40d9-bfd3-25c5a2a649ed",
+      "DisplayName": "RebelleToolsPro",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
